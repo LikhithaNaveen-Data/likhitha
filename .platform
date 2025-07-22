@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Furniture Co Power BI Desktop version Likhitha Naveen"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c7c7a940-d1ec-47b0-bd3b-bd8310996b1b"
+  }
+}
